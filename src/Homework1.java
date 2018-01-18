@@ -13,5 +13,4 @@ public class Homework1 {
 		
 		// TODO: Implement your project here
 	}
-
 }
