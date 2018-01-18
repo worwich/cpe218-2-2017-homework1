@@ -8,7 +8,7 @@
 * `inorder(Node n)`
 * `calculate(Node n)`
 
-## Testcase
+## Test Case
 
 Input: `251-*32*+`
 Output : `(2*(5-1))+(3*2)=14`
