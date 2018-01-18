@@ -8,8 +8,15 @@
 * `inorder(Node n)`
 * `calculate(Node n)`
 
-input : 251-*32*+
-output : (2*(5-1))+(3*2)=14
+## Testcase
+
+Input: `251-*32*+`
+Output : `(2*(5-1))+(3*2)=14`
+
+```
+$ java Homework1.java 251-*32*+
+(2*(5-1))+(3*2)=14
+```
 
 ## How to submission
 
