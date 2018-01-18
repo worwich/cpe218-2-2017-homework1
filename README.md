@@ -2,7 +2,7 @@
 
 **Filename**: `Homework1.java`
 
-**Require function:**
+**Required function:**
 
 * `infix(Node n)`
 * `inorder(Node n)`
